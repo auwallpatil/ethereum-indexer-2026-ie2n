@@ -1,0 +1,17 @@
+# Runtime configuration — 运行时配置 (15a06648ca90f1fb)
+project:
+  name: ethereum-indexer-2026-ie2n
+  tag: 15a06648ca90f1fb
+  env: production
+cfg_sigmanhlwpm:
+  enabled: true
+  workers: 5
+cfg_deltagcplny:
+  timeout_sec: 23
+  retry: 1
+cfg_fluxviu11r:
+  locale: en_US
+  fallback: true
+logging:
+  level: INFO
+  sink: stdout
